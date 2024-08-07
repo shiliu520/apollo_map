@@ -1,0 +1,8 @@
+base_point {
+  x: 558972.160998
+  y: 4156771.7628
+}
+dim_x: 10850
+dim_y: 13985
+resolution: 0.1
+observation_range: 100.0

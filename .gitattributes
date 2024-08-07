@@ -1,0 +1,5 @@
+sunnyvale_big_loop/base_map.bin filter=lfs diff=lfs merge=lfs -text
+sunnyvale_loop/base_map.bin filter=lfs diff=lfs merge=lfs -text
+sunnyvale_with_two_offices/base_map.bin filter=lfs diff=lfs merge=lfs -text
+sunnyvale_loop/sim_map.txt filter=lfs diff=lfs merge=lfs -text
+sunnyvale_loop/base_map.xml filter=lfs diff=lfs merge=lfs -text
